@@ -1,0 +1,63 @@
+export const homeObjectOne = {
+    primary: true,
+    lightBackground: false,
+    imgStart: '',
+    lightTopLine: true,
+    lightTextDescription: true,
+    buttonLabel: 'Get Started',
+    description: 'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText: true,
+    topLine: 'Marketing Agency',
+    img: require('../../images/svg-1.svg'),
+    alt: 'Image',
+    start: '',
+};
+
+export const homeObjectTwo = {
+    primary: false,
+    lightBackground: true,
+    imgStart: 'start',
+    lightTopLine: false,
+    lightTextDescription: false,
+    buttonLabel: 'Get Started',
+    description: 'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText: false,
+    topLine: 'Marketing Agency',
+    img: require('../../images/profile.jpg'),
+    alt: 'Image',
+    start: 'true',
+};
+
+export const homeObjectThree = {
+    primary: true,
+    lightBackground: false,
+    imgStart: '',
+    lightTopLine: true,
+    lightTextDescription: true,
+    buttonLabel: 'Get Started',
+    description: 'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText: true,
+    topLine: 'Marketing Agency',
+    img: require('../../images/svg-2.svg'),
+    alt: 'Image',
+    start: '',
+};
+
+export const homeObjectFour = {
+    primary: true,
+    lightBackground: false,
+    imgStart: 'start',
+    lightTopLine: true,
+    lightTextDescription: true,
+    buttonLabel: 'Get Started',
+    description: 'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText: true,
+    topLine: 'Marketing Agency',
+    img: require('../../images/svg-3.svg'),
+    alt: 'Image',
+    start: '',
+};
