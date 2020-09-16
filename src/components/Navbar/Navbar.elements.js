@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 import { FaMagento } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { Container } from '../../globalStyles';
@@ -90,7 +90,7 @@ export const NavItem = styled.li`
             border: none;
         }
     }
-`
+`;
 
 export const NavLinks = styled(Link)`
     color: #fff;
@@ -111,7 +111,7 @@ export const NavLinks = styled(Link)`
             transition: all 0.3s ease;
         }
     }
-`
+`;
 
 export const NavItemButton = styled.li`
     @media screen and (max-width: 960px) {
